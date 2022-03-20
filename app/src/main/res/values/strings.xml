@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">gentleLand</string>
+    <string name="pay">연회비</string>
+    <string name="typeId">아이디를 입력하세요</string>
+    <string name="search">검색</string>
+    <string name="period">기간</string>
 </resources>
